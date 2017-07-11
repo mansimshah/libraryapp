@@ -1,0 +1,13 @@
+http://localhost:3000/books/1?user_email=mansi@example.com&user_token=TpfHqSSfCWS_8FBM_zAn
+
+{
+  "id": 1,
+  "title": "Book1",
+  "details": "testing book1",
+  "created_at": "2016-12-19T07:59:22.981Z",
+  "updated_at": "2016-12-19T08:02:42.908Z",
+  "url": "http://localhost:3000/books/1"
+}
+
+==============================================
+
